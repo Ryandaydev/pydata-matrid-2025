@@ -1,7 +1,7 @@
 # How to use APIs in Data Science Without Breaking Anything
-## Presentation for Open Data Science Conference West 2024
+## Presentation for Open Data Science Conference West 2025
 
-For more tips on this topic  [Sign up for my Tip Sheet](https://tips.handsonapibook.com/). It has additional tips from my book that will be published in April 2025 by O'Reilly Publishing.
+For more tips on this topic  [Sign up for my Tip Sheet](https://tips.handsonapibook.com/). 
 
 A few highlights:
 
