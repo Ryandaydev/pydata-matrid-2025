@@ -1,7 +1,7 @@
-# How to use APIs in Data Science Without Breaking Anything
-## Presentation for Open Data Science Conference West 2025
+# Uso de API en ciencia de datos con FastAPI
+## Presentation para PyDataMadrid
 
-For more tips on this topic  [Sign up for my Tip Sheet](https://tips.handsonapibook.com/). 
+Para obtener más información sobre este tema, [suscríbase a mi boletín](https://tips.handsonapibook.com/). 
 
 A few highlights:
 
