@@ -3,8 +3,8 @@
 
 Para obtener más información sobre este tema, [suscríbase a mi boletín](https://tips.handsonapibook.com/). 
 
-A few highlights:
+Ejemplos de la presentación:
 
-* Using APIs in Streamlit with a simple client - [code](/streamlit_with_client/)
-* Using APIs in generative AI with LangChain - [code](/notebooks_with_ai/)
-* Using APIs in Jupyter Notebooks with a simple client - [code](/notebooks_with_client/)
+* Crear una nueva API con fastapi-new - [code](/new-fastapi-app/)
+* Una API más completa usando una base de datos - [code](/api/)
+* Usar APIs en Jupyter Notebooks con un SDK - [code](example_sdk_notebook.ipynb)
